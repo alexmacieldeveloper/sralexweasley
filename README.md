@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sralexweasley&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 passionate about front end development 
-- 📫 How to reach me **aweasley.gina@gmail.com**
+- 📫 How to reach me **alexmacielsilva29@gmail.com**
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 
