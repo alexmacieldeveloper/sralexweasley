@@ -13,6 +13,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 <br><br>
 ## Contact
 <div> 
